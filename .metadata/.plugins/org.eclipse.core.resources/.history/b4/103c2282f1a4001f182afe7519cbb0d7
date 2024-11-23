@@ -1,0 +1,24 @@
+package utility;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.List;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class DataReader {
+	
+	
+	public static List<HashMap<String,String>> data(String filepath,String sheetname) throws IOException
+	{
+		 FileInputStream file=new FileInputStream(filepath);
+		XSSFWorkbook workbook= new XSSFWorkbook(file);
+		XSSFSheet sheet=workbook.getSheet("Sheet1");
+		int totalrows=sheet.getLastRowNum();
+		return null;
+    }
+
+}

@@ -1,0 +1,47 @@
+package testCases;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import pageObjects.MyAccountPage;
+import testBase.BaseClass;
+  
+
+public class TC003_LogOutTest extends BaseClass {
+	
+	
+	WebDriver driver;
+	HomePage hp;
+	LoginPage lp;
+	MyAccountPage macc;
+	@Test
+	public void logOutTest()
+	{
+		 hp=new HomePage(driver);
+		 
+		 hp.clickMyAccount();
+		 
+		 hp.clickLogin();
+		 
+		lp= new LoginPage(driver);
+		
+		lp.setEmail(pr.getProperty("username"));
+		lp.setPassword(pr.getProperty("password"));
+		lp.clickLoginButton();
+		
+		 macc=new MyAccountPage(driver);
+		 
+		 macc.clickLogOut();
+		 
+		 
+		
+		
+		
+		
+	}
+	
+ 
+
+}

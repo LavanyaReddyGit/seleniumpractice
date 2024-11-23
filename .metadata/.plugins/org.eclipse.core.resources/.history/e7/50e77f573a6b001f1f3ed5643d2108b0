@@ -1,0 +1,28 @@
+package seleniumpratice;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class LaunchBrowser {
+
+	public static void main(String[] args) {
+		
+		 WebDriver driver=new ChromeDriver();
+		 
+		 driver.get("https://www.demoblaze.com/index.html");
+		 System.out.println(driver.findElements(By.tagName("a")));//no.of links
+		 System.out.println(driver.findElements(By.tagName("img")));//no.of images
+         driver.findElement(By.linkText("Log in")).click();
+         String expTitle=driver.getTitle();
+         if(expTitle.equals("STORE"))
+         {
+        	 System.out.println("Test case passed");
+         }
+         else
+         {
+        	 System.out.println("Test case failed");
+         }
+	}
+
+}

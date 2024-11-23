@@ -1,0 +1,17 @@
+package practice;
+
+import io.restassured.RestAssured;
+
+public class EndToEndScenario {
+
+	public static void main(String[] args) {
+		// Add place
+		
+		
+		RestAssured.baseURI="https://rahulshettyacademy.com";
+		
+		
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package file;
+
+public class ReusabilityMethod {
+	
+	public static JsonPath getJson(String response)
+	{
+		return response;
+	}
+
+}

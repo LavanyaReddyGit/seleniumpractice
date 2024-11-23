@@ -1,0 +1,16 @@
+Feature: Login Data Driven with excel
+
+Scenario Outline: Login Data driven
+Given user navigates to the login page
+When user should be redirected to the My AccountPage by passing values from the "<row_index">
+Example:
+|row_index|
+|1        |
+|2        |
+|3        |
+|4        |
+|5        |
+
+
+
+

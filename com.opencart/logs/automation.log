@@ -1,0 +1,241 @@
+2024-11-11 09:42:55 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 09:42:55 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 09:42:56 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 09:42:57 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 09:42:57 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 09:42:58 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 09:42:58 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 09:42:58 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 09:45:13 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 09:45:13 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 09:45:14 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 09:45:15 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 09:45:15 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 09:45:17 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 09:45:17 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 09:45:17 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 09:45:20 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 09:45:20 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 09:45:21 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 09:45:22 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 09:45:22 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 09:45:23 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 09:45:23 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 09:45:23 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 09:46:10 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 09:46:10 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 09:46:11 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 09:46:11 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 09:46:11 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 09:46:13 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 09:46:13 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 09:46:14 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:20:31 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:20:31 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:20:31 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:20:31 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:20:31 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:20:32 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:20:32 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:20:32 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:22:28 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:22:28 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:22:28 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:22:29 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:22:29 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:22:31 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:22:31 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:22:31 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:22:35 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:22:35 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:22:35 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:22:35 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:22:35 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:22:36 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:22:36 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:22:37 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:23:22 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:23:22 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:23:22 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:23:23 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:23:23 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:23:27 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:26:59 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:26:59 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:26:59 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:26:59 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:27:00 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:27:00 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:27:04 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:27:04 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:27:05 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:27:05 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:27:05 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:27:06 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:27:06 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:27:07 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:27:10 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:27:21 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:28:25 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:28:25 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:28:25 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:28:25 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:28:26 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:28:26 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:28:26 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:28:26 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:28:32 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:28:32 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:28:32 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:28:33 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:28:33 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:28:34 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:28:34 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:28:34 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:29:51 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:29:51 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:29:51 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:29:51 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:29:52 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:29:52 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:29:55 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:29:55 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:29:55 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:29:55 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:29:55 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:29:56 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:29:56 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:29:57 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:30:02 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:30:12 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:31:19 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:31:19 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:31:19 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:31:20 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:31:20 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:31:21 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:31:21 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:31:21 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:31:44 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:31:44 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:31:45 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:31:45 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:31:45 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:31:46 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:31:46 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:31:46 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:32:16 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:32:16 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:32:17 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:32:17 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:32:17 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:32:18 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:32:18 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:32:18 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:32:50 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:32:50 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:32:51 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:32:51 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:32:51 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:32:52 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:32:52 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:32:52 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:33:23 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:33:23 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:33:23 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:33:23 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:33:24 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:33:24 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:33:29 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:33:29 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:33:29 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:33:29 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:33:29 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:33:30 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:33:30 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:33:30 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:33:34 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:33:44 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:40:40 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:40:40 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:40:41 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:40:41 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:40:41 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:40:43 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:40:43 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:40:43 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:42:08 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:42:08 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:42:08 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:42:09 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:42:09 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:42:10 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:42:10 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:42:10 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:44:10 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:44:10 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:44:10 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:44:11 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:44:11 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:44:11 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:44:11 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:44:12 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:49:03 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:49:03 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:49:03 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:49:03 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:49:03 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:49:03 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:49:08 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 11:49:08 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 11:49:08 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 11:49:08 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 11:49:08 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 11:49:10 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 11:49:10 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 11:49:10 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:49:14 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 11:49:24 INFO  TC002_LoginTest:53 - ****** TC002_LoginTest finished ******
+2024-11-11 14:43:54 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:43:54 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:43:55 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:43:55 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:43:55 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:43:56 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:43:58 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:43:58 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:43:59 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:43:59 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 14:43:59 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 14:44:00 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 14:44:00 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 14:44:00 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:44:06 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:44:16 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:46:11 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:46:11 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:46:14 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:46:16 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:46:16 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:46:16 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:46:16 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:46:16 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:46:16 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:46:19 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:46:19 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:50:37 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:50:37 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:50:37 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:50:37 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:50:38 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:50:38 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:50:48 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:50:58 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******
+2024-11-11 14:51:17 INFO  TC002_LoginTest:17 - ****** TC002_LoginTest started ******
+2024-11-11 14:51:17 DEBUG TC002_LoginTest:18 - capturing application debug logs
+2024-11-11 14:51:17 INFO  TC002_LoginTest:24 - Clicked on MyAccount link on the homepage
+2024-11-11 14:51:18 INFO  TC002_LoginTest:26 - Clicked on login link on the homepage
+2024-11-11 14:51:18 INFO  TC002_LoginTest:31 - Provided valod  credentials to login
+2024-11-11 14:51:19 INFO  TC002_LoginTest:36 - Clicked on loginbutton
+2024-11-11 14:51:19 INFO  TC002_LoginTest:41 - My Account page exists
+2024-11-11 14:51:19 INFO  TC002_LoginTest:54 - ****** TC002_LoginTest finished ******

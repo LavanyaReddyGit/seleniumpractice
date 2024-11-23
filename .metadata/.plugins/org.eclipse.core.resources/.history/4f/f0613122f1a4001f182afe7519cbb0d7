@@ -1,0 +1,17 @@
+package utility;
+
+import java.io.FileInputStream;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class DataReader {
+	
+	
+	public static List<HashMap<String,String>> data(String filepath,String sheetname)
+	{
+		 FileInputStream file=new FileInputStream(filepath);
+		XSSFWorkbook workbook= new XSSFWorkbook(file);
+		XSSFSheet sheet=workbook.getSheet("Sheet1");
+    }
+
+}

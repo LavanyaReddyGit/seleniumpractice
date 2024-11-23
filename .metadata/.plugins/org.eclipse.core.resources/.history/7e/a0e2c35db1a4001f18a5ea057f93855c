@@ -1,0 +1,11 @@
+package utility;
+
+public class DataReader {
+	
+	
+	public static List<HashMap<String,String>> data(String filepath,String sheetname)
+	{
+		
+	}
+
+}

@@ -1,0 +1,74 @@
+package practice;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.equalTo;
+
+import file.PayLoad;
+
+public class EndToEndScenario {
+
+	public static void main(String[] args) {
+		// Add place
+		
+		
+		RestAssured.baseURI="https://rahulshettyacademy.com";
+		
+		String response=given().log().all().queryParam("key","qaclick123")
+		.header("Content-Type","application/json")
+		.body(PayLoad.addPlace())
+		.when().post("maps/api/place/add/json")
+		.then().log().all().statusCode(200).body("scope", equalTo("APP"))
+		.extract().response().asString();
+		
+		JsonPath js=new JsonPath(response);
+		String place_id=js.getString("place_id");
+		
+		System.out.println(place_id);
+		
+		
+		
+		System.out.println("****************");
+		//Update place
+		
+		
+		String newAddress=" Washington USA";
+		given().log().all().queryParam("key", "qaclick123")
+		.header("Content-Type","application/json")
+		.body("{\r\n"
+				+ "  \"place_id\":\""+place_id+"\", \r\n"
+				+ "   \"address\": \""+newAddress+"\",\r\n"
+				+ "  \"key\":\"qaclick123\"\r\n"
+				+ "}")
+		.when().put("maps/api/place/add/json")
+		.then().log().all().assertThat().statusCode(200).body("msg", equalTo("Address successfully updated"));
+		
+		
+		
+		
+		System.out.println("****************");
+		
+		
+		//Get Address
+		
+		
+		given().log().all().queryParam("key", "qaclick123")
+		.queryParam("place_id", place_id)
+		.when().get("maps/api/place/add/json")
+		.then().log().all().statusCode(200);
+		
+		
+		System.out.println("****************");
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

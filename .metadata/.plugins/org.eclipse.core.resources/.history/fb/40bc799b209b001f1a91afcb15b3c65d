@@ -1,0 +1,65 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.MyAccountRegistrationPage;
+import testBase.BaseClass;
+
+public class TC001_AccountRegistrationTest extends BaseClass {
+	
+	
+	
+	
+	@Test
+	public void registrationTest() throws InterruptedException
+	{
+		HomePage hp=new HomePage(driver);
+		
+		hp.clickMyAccount();
+		
+		hp.clickRegister();
+		
+		MyAccountRegistrationPage regpage=new MyAccountRegistrationPage(driver);
+		
+		
+		regpage.setFirstName("jk");
+		
+		regpage.setLastName("seoul");
+		
+		//String emailid=randomeAlphabetics()+"@gmail.com";
+		
+		regpage.setEmailId("jkseoul@gmail.com");
+		
+
+		
+		
+		
+		regpage.setTelephoneNum(randomeNumber());
+		
+		
+		String password=randomeAlphaNumeric();
+		
+		regpage.setPassword(password);
+		
+		regpage.setConfirmPassword(password);
+		
+		regpage.checkPrivacyPolicy();
+		
+		
+		regpage.clikckContinueButton();
+		
+		String cmsg=regpage.getConfirmationMsg();
+		
+		Assert.assertEquals(cmsg, "Your Account Has Been Created!");	
+		
+		
+	
+
+	}
+
+
+	
+
+}

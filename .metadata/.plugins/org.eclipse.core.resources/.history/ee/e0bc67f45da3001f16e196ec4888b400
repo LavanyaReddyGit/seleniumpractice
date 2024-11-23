@@ -1,0 +1,24 @@
+package testrunner;
+
+import org.junit.runner.RunWith;
+
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(features= {".//features/login.feature"},
+                glue="stepdefinations",
+                            
+                plugin= {
+                		"pretty","html:reports/myreprt.html",
+                		
+                		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+                        },
+             
+                           dryRun =false,
+                           monochrome=true,
+                           publish=true,
+                           tags="@sanity")
+public class TestRunner {
+
+}

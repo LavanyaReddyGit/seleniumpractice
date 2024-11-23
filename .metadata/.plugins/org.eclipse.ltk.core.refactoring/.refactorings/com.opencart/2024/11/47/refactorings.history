@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Opencart_LoginDataDDT.xlsx&apos; to &apos;testdata&apos;&#x0D;&#x0A;- Original project: &apos;com.opencart&apos;&#x0D;&#x0A;- Destination element: &apos;testdata&apos;&#x0D;&#x0A;- Original element: &apos;Opencart_LoginDataDDT.xlsx&apos;" description="Copy file" element1="testdata/Opencart_LoginDataDDT.xlsx" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1731854104798" target="/com.opencart.cucumber/testdata" units="0" version="1.0"/>
+</session>

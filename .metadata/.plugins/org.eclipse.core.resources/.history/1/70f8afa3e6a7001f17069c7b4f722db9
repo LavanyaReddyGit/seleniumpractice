@@ -1,0 +1,19 @@
+package practice;
+
+import io.restassured.RestAssured;
+import static io.restassured.RestAssured.*;
+
+public class Sample {
+
+	public static void main(String[] args) {
+
+		RestAssured.baseURI="https://rahulshettyacademy.com ";
+		
+		// given() (for all inputs), when()( to use http methods), then() (for validations)
+		
+		
+		
+		
+		
+	}
+}

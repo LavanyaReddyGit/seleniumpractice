@@ -1,0 +1,15 @@
+io.cucumber.junit.UndefinedStepException: The step 'user enters email as "testmail425@gmail.com" and password as "Test@123"' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("user enters email as {string} and password as {string}")
+public void user_enters_email_as_and_password_as(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("the user should be redirected to the MyAccount Page")
+public void the_user_should_be_redirected_to_the_my_account_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
